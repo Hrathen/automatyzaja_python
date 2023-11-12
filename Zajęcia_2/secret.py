@@ -1,5 +1,0 @@
-secret = 'aXmYiZnAkYgZlBoYjZrCiZuDoYmZqEoYcZlFpYkZmGqYlZiHrYmZjIsYnZkJoYjZlKpYkZmLqYlZiMrYmZjNsYnZkOtYjZlPuYkZmQvYlZiRwYmZjSxYnZkTyYjZlUzYkZmVaYl'
-
-print(secret[::5])
-
-
